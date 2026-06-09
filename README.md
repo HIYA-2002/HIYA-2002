@@ -20,7 +20,7 @@
 
 | Project | Tools | Highlights |
 |---|---|---|
-| [Customer Churn Analysis](https://github.com/HIYA-2002/Data-Science-Projects-Assignments-Hiya-Maiti/blob/main/Customer_churn_analysis.sql) | SQL, MySQL | RFM analysis on 7,043 customers |
+| [Customer Churn Analysis](https://github.com/HIYA-2002/customer-churn-analysis-sql) | SQL, MySQL | RFM analysis on 7,043 customers |
 | [A/B Testing Analysis](https://github.com/HIYA-2002/Data-Science-Projects-Assignments-Hiya-Maiti/blob/main/Statistical%20%20Analysis%20-%20AB%20_Testing.ipynb) | Python, Stats | Hypothesis testing on 294,478 users, p=0.03 |
 | [Retail Sales EDA](https://github.com/HIYA-2002/retail-sales-analysis-eda) | Python, Pandas | 3,900+ transactions, RFM segmentation |
 | [Loan Default Prediction App](https://github.com/HIYA-2002/loan-default-risk-app) | Python, ML, Streamlit | Real-time risk prediction with UI |
